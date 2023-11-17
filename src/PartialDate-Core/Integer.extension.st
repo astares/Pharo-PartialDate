@@ -79,6 +79,12 @@ Integer >> nd [
 ]
 
 { #category : #'*PartialDate-Core' }
+Integer >> rd [
+
+	^ PartialDate day: self
+]
+
+{ #category : #'*PartialDate-Core' }
 Integer >> st [
 
 	^ PartialDate day: self
