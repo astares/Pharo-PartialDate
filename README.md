@@ -3,7 +3,7 @@
 
 [![Pharo](https://img.shields.io/static/v1?style=for-the-badge&message=Pharo&color=3297d4&logo=Harbor&logoColor=FFFFFF&label=)](https://www.pharo.org) 
 
-[![Unit Tests](https://github.com/astares/Pharo-PartialDate/workflows/Build/badge.svg?branch=main)](https://github.com/astares/Pharo-PartialDate/actions?query=workflow%3ABuild)
+[![Build](https://github.com/astares/Pharo-PartialDate/actions/workflows/build.yml/badge.svg)](https://github.com/astares/Pharo-PartialDate/actions/workflows/build.yml)
 [![Coverage Status](https://codecov.io/github/astares/Pharo-PartialDate/coverage.svg?branch=main)](https://codecov.io/gh/astares/Pharo-PartialDate/branch/main)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
