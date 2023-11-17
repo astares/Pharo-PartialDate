@@ -19,6 +19,7 @@ BaselineOfPartialDate >> baseline: spec [
 		spec
 			group: 'Core' with: #('PartialDate-Core');
 			group: 'Tests' with: #('PartialDate-Core-Tests');
+			group: 'CI' with: #('Tests');
 			group: 'all' with: #('Core' 'Tests');
 			group: 'default' with: #('all')
 	]
