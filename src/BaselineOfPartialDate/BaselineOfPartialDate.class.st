@@ -14,7 +14,7 @@ BaselineOfPartialDate >> baseline: spec [
 	spec for: #'common' do: [
 		spec
 			package: 'PartialDate-Core';
-			package: 'PartialDate-Core-Tests' with: [spec requires: #(PartialDate-Core) ].
+			package: 'PartialDate-Core-Tests' with: [spec requires: #('PartialDate-Core') ].
 
 		spec
 			group: 'Core' with: #('PartialDate-Core');
